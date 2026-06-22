@@ -1,0 +1,29 @@
+# Exercise 1 Flowchart Logic
+
+START
+
+Set baseCharge = 40
+
+Input customerLastName
+
+Input bathrooms
+
+Input otherRooms
+
+bathroomCost = bathrooms * 15
+
+roomCost = otherRooms * 10
+
+totalCost = baseCharge + bathroomCost + roomCost
+
+Display customerLastName
+
+Display bathrooms and bathroomCost
+
+Display otherRooms and roomCost
+
+Display totalCost
+
+Display "Program Complete"
+
+END
