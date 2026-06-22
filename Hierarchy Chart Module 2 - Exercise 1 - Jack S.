@@ -1,0 +1,20 @@
+# Exercise 1 Hierarchy Chart
+
+Hazel's Housecleaning Program
+
+- Input Customer Information
+  - Get customer's last name
+  - Get number of bathrooms
+  - Get number of other rooms
+
+- Calculate Charges
+  - Calculate bathroom cost
+  - Calculate other room cost
+  - Calculate total service charge
+
+- Display Results
+  - Display customer name
+  - Display bathroom information
+  - Display other room information
+  - Display total cost
+  - Display program complete message
